@@ -13,7 +13,7 @@ The classes are:
 
 
 
-- link - > [Kaggle](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection)
+link - > [Kaggle](https://www.kaggle.com/datasets/andrewmvd/face-mask-detection)
 
 ### Model Building
 
